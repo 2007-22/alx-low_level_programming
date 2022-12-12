@@ -1,4 +1,2 @@
 #include <stdio.h>
-/**
- * 
-*/
+gcc -S -masm=intel $CFILE
