@@ -30,5 +30,4 @@ putchar(' ');
 }
 }
 putchar('\n');
-putchar (0);
-}
+putchar (0);}
