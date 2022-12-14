@@ -29,4 +29,4 @@ putchar(' ');
 }
 putchar('\n');
 putchar (0);
-}/*ok*/
+  }
