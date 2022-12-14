@@ -31,4 +31,4 @@ putchar(' ');
 }
 putchar('\n');
 putchar (0);
-} 
+}
