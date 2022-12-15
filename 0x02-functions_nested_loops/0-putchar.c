@@ -5,8 +5,7 @@
  * Return: 0
 */
 int main(void)
-{
-for (p = a)
+ {
 _putchar(',');
 _putchar(' ');
 _putchar('_');
