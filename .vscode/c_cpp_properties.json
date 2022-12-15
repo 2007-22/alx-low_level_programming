@@ -23,6 +23,18 @@
                 "_UNICODE"
             ],
             "intelliSenseMode": "windows-msvc-x64"
+        },
+        {
+            "name": "alx-low_level_programming",
+            "includePath": [
+                "${workspaceFolder}/**"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "intelliSenseMode": "windows-msvc-x64"
         }
     ],
     "version": 4
