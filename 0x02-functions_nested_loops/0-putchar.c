@@ -7,7 +7,7 @@
 int main(void)
  {
 {
-putchar('_');
+putchar(',');
 {
 putchar('p');
 {
